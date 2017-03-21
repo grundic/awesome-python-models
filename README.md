@@ -107,6 +107,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [restorm](https://github.com/joeribekker/restorm) - RestORM allows you to interact with resources as if they were objects.
 * ![alt text](https://avatars2.githubusercontent.com/u/4458558?v=3&s=32 "SurveyMonkey")
   [wukong](https://github.com/SurveyMonkey/wukong) - An ORM Client library for SolrCloud.
+* ![alt text](https://avatars0.githubusercontent.com/u/443794?v=3&s=32 "Alexander Zelenyak")
+  [yadm](https://github.com/zzzsochi/yadm) - Yet Another Document Mapper (ODM) for MongoDB.
 
 
 # Other Awesome Lists
