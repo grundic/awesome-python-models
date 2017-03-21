@@ -77,6 +77,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [finch](https://github.com/jaimegildesagredo/finch) - Asynchronous RESTful API consumer for Python.
 * ![alt text](https://avatars1.githubusercontent.com/u/506791?v=3&s=32 "Steven Arcangeli")
   [flywheel](https://github.com/stevearc/flywheel) - Object mapper for Amazon's DynamoDB.
+* ![alt text](https://avatars3.githubusercontent.com/u/48549?v=3&s=32 "Brian Jinwright")
+  [kev](https://github.com/capless/kev) - Python ORM for key-value stores. Currently supported backends are Redis, S3, and a S3/Redis hybrid backend.
 * ![alt text](https://avatars0.githubusercontent.com/u/3344584?v=3&s=32 "Center for Open Science")
   [modular-odm](https://github.com/CenterForOpenScience/modular-odm) - A database-agnostic Object-Document Mapper for Python.
 * ![alt text](https://avatars3.githubusercontent.com/u/1502485?v=3&s=32 "MongoEngine")
