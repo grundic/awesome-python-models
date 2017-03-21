@@ -64,6 +64,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [simple-models](https://github.com/prawn-cake/simple-models) - Simple models - keep your API messages in shape with validation and handy descriptors based object interface.
 * ![alt text](https://avatars1.githubusercontent.com/u/1730315?v=3&s=32 "Aljosha Friemann")
   [simple_model](https://github.com/afriemann/simple_model) - a very simple model framework for python.
+* ![alt text](https://avatars0.githubusercontent.com/u/939501?v=3&s=32 "Jace Browning")
+  [yorm](https://github.com/jacebrowning/yorm) - Automatic object-YAML mapping for Python.
   
 
 ## ODM, ORM, Active Record
