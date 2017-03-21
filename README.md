@@ -71,6 +71,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars3.githubusercontent.com/u/2315?v=3&s=32 "dw")
   [acid](https://github.com/dw/acid) - SQLite for NoSQL.
 * [butterdb](https://github.com/terrible-ideas/butterdb) - butterdb is a Python object mapper for Google Drive Spreadsheets.
+* ![alt text](https://avatars1.githubusercontent.com/u/27804?v=3&s=32 "Django")
+  [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines (includes ORM layer).
 * ![alt text](https://avatars2.githubusercontent.com/u/825580?v=3&s=32 "Jaime Gil de Sagredo Luna")
   [finch](https://github.com/jaimegildesagredo/finch) - Asynchronous RESTful API consumer for Python.
 * ![alt text](https://avatars1.githubusercontent.com/u/506791?v=3&s=32 "Steven Arcangeli")
