@@ -105,6 +105,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
 * ![alt text](https://avatars1.githubusercontent.com/u/96970?v=3&s=32 "Joeri Bekker")
   [restorm](https://github.com/joeribekker/restorm) - RestORM allows you to interact with resources as if they were objects.
+* ![alt text](https://avatars2.githubusercontent.com/u/4458558?v=3&s=32 "SurveyMonkey")
+  [wukong](https://github.com/SurveyMonkey/wukong) - An ORM Client library for SolrCloud.
 
 
 # Other Awesome Lists
