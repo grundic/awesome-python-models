@@ -111,6 +111,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [wukong](https://github.com/SurveyMonkey/wukong) - An ORM Client library for SolrCloud.
 * ![alt text](https://avatars0.githubusercontent.com/u/443794?v=3&s=32 "Alexander Zelenyak")
   [yadm](https://github.com/zzzsochi/yadm) - Yet Another Document Mapper (ODM) for MongoDB.
+* ![alt text](https://avatars2.githubusercontent.com/u/119974?v=3&s=32 "Charles Leifer")
+  [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.
 
 
 # Other Awesome Lists
