@@ -12,7 +12,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 
 ## Model, Schema
 *Libraries implementing some kind of model, letting you to serialize/deserialize python object to some data structures.*
-* [ascetic](https://bitbucket.org/emacsway/ascetic) - Ascetic, a lightweight Python datamapper ORM.
+* :ghost: [ascetic](https://bitbucket.org/emacsway/ascetic) - Ascetic, a lightweight Python datamapper ORM.
 * ![alt text](https://avatars2.githubusercontent.com/u/825580?v=3&s=32 "Jaime Gil de Sagredo Luna") 
   [booby](https://github.com/jaimegildesagredo/booby) - data modeling and validation Python library.
 * ![alt text](https://avatars3.githubusercontent.com/u/5652479?v=3&s=32 "roronya")
@@ -36,12 +36,12 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [jsonobjects](https://github.com/caxap/jsonobjects) - jsonobjects allows you to declaratively specify how to extract and convert elements from a JSON document.
 * ![alt text](https://avatars1.githubusercontent.com/u/94514?v=3&s=32 "Dimagi")
   [jsonobject](https://github.com/dimagi/jsonobject) - A simple json-object mapping for Python.
-* [jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON.
+* :ghost: [jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON.
 * ![alt text](https://avatars0.githubusercontent.com/u/111217?v=3&s=32 "Neil Isaac")
   [lazycontract](https://github.com/neilisaac/lazycontract) - Python library to define declarative contracts for serialization and deserialization.
 * ![alt text](https://avatars1.githubusercontent.com/u/10334301?v=3&s=32 "Python object serialization and deserialization, lightweight and fluffy")
   [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
-* [metaparams](https://github.com/mementum/metaparams) - Python meta framework for Parameters in classes.
+* :ghost: [metaparams](https://github.com/mementum/metaparams) - Python meta framework for Parameters in classes.
 * ![alt text](https://avatars0.githubusercontent.com/u/6988?v=3&s=32 "Jamie Matthews")
   [micromodels](https://github.com/j4mie/micromodels) - Declarative dictionary-based model classes for Python.
 * ![alt text](https://avatars3.githubusercontent.com/u/633032?v=3&s=32 "Hearsay Social")
@@ -52,7 +52,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [object-mapper](https://github.com/marazt/object-mapper) - ObjectMapper is a class for automatic object mapping in Python.
 * ![alt text](https://avatars3.githubusercontent.com/u/1693676?v=3&s=32 "IOAM")
   [param](https://github.com/ioam/param) - Make your Python code clearer and more reliable by declaring Parameters.
-* [prettyrecord](https://github.com/skorczan/prettyrecord) - Structures like SQLAlchemy's declarative_base or Django's models in your project!
+* :ghost: [prettyrecord](https://github.com/skorczan/prettyrecord) - Structures like SQLAlchemy's declarative_base or Django's models in your project!
 * ![alt text](https://avatars1.githubusercontent.com/u/2567468?v=3&s=32 "Trust Sanger Institute - Human Genetics Informatics")
   [python-json](https://github.com/wtsi-hgi/python-json) - Python library for easily JSON encoding/decoding complex class-based Python models, using an arbitrarily complex (but easy to write!) mapping schema.
 * ![alt text](https://avatars1.githubusercontent.com/u/922613?v=3&s=32 "30loops")
@@ -77,7 +77,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries, implementing ODM/ORM/Active Record patterns, letting you to work with external objects (REST, DB) like normal python instances.*
 * ![alt text](https://avatars3.githubusercontent.com/u/2315?v=3&s=32 "dw")
   [acid](https://github.com/dw/acid) - SQLite for NoSQL.
-* [butterdb](https://github.com/terrible-ideas/butterdb) - butterdb is a Python object mapper for Google Drive Spreadsheets.
+* :ghost: [butterdb](https://github.com/terrible-ideas/butterdb) - butterdb is a Python object mapper for Google Drive Spreadsheets.
 * ![alt text](https://avatars1.githubusercontent.com/u/27804?v=3&s=32 "Django")
   [django](https://github.com/django/django) - The Web framework for perfectionists with deadlines (includes ORM layer).
 * ![alt text](https://avatars2.githubusercontent.com/u/825580?v=3&s=32 "Jaime Gil de Sagredo Luna")
@@ -110,7 +110,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [remodel](https://github.com/linkyndy/remodel) - Very simple yet powerful and extensible Object Document Mapper for RethinkDB, written in Python.
 * ![alt text](https://avatars1.githubusercontent.com/u/96970?v=3&s=32 "Joeri Bekker")
   [restorm](https://github.com/joeribekker/restorm) - RestORM allows you to interact with resources as if they were objects.
-* [storm](https://storm.canonical.com/) - Storm is an object-relational mapper (ORM) for Python developed at Canonical.
+* :ghost: [storm](https://storm.canonical.com/) - Storm is an object-relational mapper (ORM) for Python developed at Canonical.
 * ![alt text](https://avatars2.githubusercontent.com/u/4458558?v=3&s=32 "SurveyMonkey")
   [wukong](https://github.com/SurveyMonkey/wukong) - An ORM Client library for SolrCloud.
 * ![alt text](https://avatars0.githubusercontent.com/u/443794?v=3&s=32 "Alexander Zelenyak")
