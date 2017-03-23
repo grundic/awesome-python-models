@@ -4,6 +4,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 - [Awesome Python Models](#awesome-python-models)
     - [Model/Schema](#model-schema)
     - [ODM/ORM/Active Record](#odm-orm-active-record)
+- [Other resources](#other-resources)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -115,6 +116,11 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars2.githubusercontent.com/u/119974?v=3&s=32 "Charles Leifer")
   [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.
 
+# Other resources
+* [fullstackpython: Object-relational mappers (ORMs)](https://www.fullstackpython.com/object-relational-mappers-orms.html)
+* [Python ORM/ODM Examples, For The Sleepy](https://github.com/sloria/PythonORMSleepy)
+* [martinfowler: Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
+* [wiki: Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
 
 # Other Awesome Lists
 List of lists.
