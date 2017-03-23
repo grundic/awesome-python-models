@@ -125,6 +125,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * [martinfowler: Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
 * [martinfowler: Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
 * [wiki: Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Higher Level Database Programming](https://wiki.python.org/moin/HigherLevelDatabaseProgramming)
 
 
 # Other Awesome Lists
