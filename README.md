@@ -12,6 +12,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 
 ## Model, Schema
 *Libraries implementing some kind of model, letting you to serialize/deserialize python object to some data structures.*
+* [ascetic](https://bitbucket.org/emacsway/ascetic) - Ascetic, a lightweight Python datamapper ORM.
 * ![alt text](https://avatars2.githubusercontent.com/u/825580?v=3&s=32 "Jaime Gil de Sagredo Luna") 
   [booby](https://github.com/jaimegildesagredo/booby) - data modeling and validation Python library.
 * ![alt text](https://avatars3.githubusercontent.com/u/5652479?v=3&s=32 "roronya")
