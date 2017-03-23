@@ -120,7 +120,9 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * [fullstackpython: Object-relational mappers (ORMs)](https://www.fullstackpython.com/object-relational-mappers-orms.html)
 * [Python ORM/ODM Examples, For The Sleepy](https://github.com/sloria/PythonORMSleepy)
 * [martinfowler: Active Record](https://www.martinfowler.com/eaaCatalog/activeRecord.html)
+* [martinfowler: Data Mapper](https://martinfowler.com/eaaCatalog/dataMapper.html)
 * [wiki: Object-relational mapping](https://en.wikipedia.org/wiki/Object-relational_mapping)
+
 
 # Other Awesome Lists
 List of lists.
