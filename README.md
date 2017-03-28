@@ -96,6 +96,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [pony](https://github.com/ponyorm/pony) - Pony Object Relational Mapper.
 * ![alt text](https://avatars0.githubusercontent.com/u/119974?v=3&s=32 "Charles Leifer")
   [peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite.
+* ![alt text](https://avatars1.githubusercontent.com/u/7572385?v=3&s=32 "GenePeeks, Inc.")
+  [py-rest-orm](https://github.com/GenePeeks/py-rest-orm) - Generic Python REST ORM. Inspired by Django. Powered by Requests.
 * ![alt text](https://avatars2.githubusercontent.com/u/2125212?v=3&s=32 "Mohamed Daif")
   [python-rest-model](https://github.com/mdaif/python-rest-model) - A standard way to consume a RESTful service, inspired by Django models.
 * ![alt text](https://avatars0.githubusercontent.com/u/126780?v=3&s=32 "Burak Yiğit Kaya")
