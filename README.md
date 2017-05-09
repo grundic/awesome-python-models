@@ -37,6 +37,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars1.githubusercontent.com/u/94514?v=3&s=32 "Dimagi")
   [jsonobject](https://github.com/dimagi/jsonobject) - A simple json-object mapping for Python.
 * :ghost: [jsonpickle](https://github.com/jsonpickle/jsonpickle) - Python library for serializing any arbitrary object graph into JSON.
+* ![alt text](https://avatars1.githubusercontent.com/u/488217?v=3&s=32 "Mike Waites")
+  [kim](https://github.com/mikeywaites/kim) - A JSON Serialization and Marshaling framework.
 * ![alt text](https://avatars0.githubusercontent.com/u/111217?v=3&s=32 "Neil Isaac")
   [lazycontract](https://github.com/neilisaac/lazycontract) - Python library to define declarative contracts for serialization and deserialization.
 * ![alt text](https://avatars1.githubusercontent.com/u/10334301?v=3&s=32 "Python object serialization and deserialization, lightweight and fluffy")
