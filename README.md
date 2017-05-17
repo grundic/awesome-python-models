@@ -1,5 +1,5 @@
 # Awesome Python Models [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODMs/ORMs, Active Records or similar patterns.
+A curated list of awesome Python libraries, which implement models, schemas, serializers/deserializers, ODM's/ORM's, Active Records or similar patterns.
 
 - [Awesome Python Models](#awesome-python-models)
     - [Model/Schema](#model-schema)
