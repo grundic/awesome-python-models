@@ -55,6 +55,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars3.githubusercontent.com/u/1693676?v=3&s=32 "IOAM")
   [param](https://github.com/ioam/param) - Make your Python code clearer and more reliable by declaring Parameters.
 * :ghost: [prettyrecord](https://github.com/skorczan/prettyrecord) - Structures like SQLAlchemy's declarative_base or Django's models in your project!
+* ![alt text](https://avatars3.githubusercontent.com/u/4039449?v=3&s=32 "Samuel Colvin")
+  [pydantic](https://github.com/samuelcolvin/pydantic) - Data validation using Python 3.6 type hinting.
 * ![alt text](https://avatars1.githubusercontent.com/u/2567468?v=3&s=32 "Trust Sanger Institute - Human Genetics Informatics")
   [python-json](https://github.com/wtsi-hgi/python-json) - Python library for easily JSON encoding/decoding complex class-based Python models, using an arbitrarily complex (but easy to write!) mapping schema.
 * ![alt text](https://avatars1.githubusercontent.com/u/922613?v=3&s=32 "30loops")
