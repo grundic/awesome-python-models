@@ -41,6 +41,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [kim](https://github.com/mikeywaites/kim) - A JSON Serialization and Marshaling framework.
 * ![alt text](https://avatars0.githubusercontent.com/u/111217?v=3&s=32 "Neil Isaac")
   [lazycontract](https://github.com/neilisaac/lazycontract) - Python library to define declarative contracts for serialization and deserialization.
+* ![alt text](https://avatars3.githubusercontent.com/u/87913??v=3&s=32 "Aurélien")
+  [lupin](https://github.com/holinnn/lupin) - Python document object mapper (load python object from JSON and vice-versa).
 * ![alt text](https://avatars1.githubusercontent.com/u/10334301?v=3&s=32 "Python object serialization and deserialization, lightweight and fluffy")
   [marshmallow](https://github.com/marshmallow-code/marshmallow) - A lightweight library for converting complex objects to and from simple Python datatypes.
 * :ghost: [metaparams](https://github.com/mementum/metaparams) - Python meta framework for Parameters in classes.
