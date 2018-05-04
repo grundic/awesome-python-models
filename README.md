@@ -61,6 +61,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * :ghost: [prettyrecord](https://github.com/skorczan/prettyrecord) - Structures like SQLAlchemy's declarative_base or Django's models in your project!
 * ![alt text](https://avatars3.githubusercontent.com/u/4039449?v=3&s=32 "Samuel Colvin")
   [pydantic](https://github.com/samuelcolvin/pydantic) - Data validation using Python 3.6 type hinting.
+* ![alt text](https://avatars3.githubusercontent.com/u/251374?v=3&s=32 "Spotify")
+  [pyschema](https://github.com/spotify/pyschema) - Python library for class-based schema definition, object serialization and data validation.
 * ![alt text](https://avatars1.githubusercontent.com/u/2567468?v=3&s=32 "Trust Sanger Institute - Human Genetics Informatics")
   [python-json](https://github.com/wtsi-hgi/python-json) - Python library for easily JSON encoding/decoding complex class-based Python models, using an arbitrarily complex (but easy to write!) mapping schema.
 * ![alt text](https://avatars1.githubusercontent.com/u/922613?v=3&s=32 "30loops")
