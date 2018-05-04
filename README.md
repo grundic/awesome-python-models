@@ -26,6 +26,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars1.githubusercontent.com/u/574291?v=3&s=32 "Alfred Santacatalina Gea")
   [dirty-models](https://github.com/alfred82santa/dirty-models) - Dirty model for python.
 * [dejavu](http://www.aminus.net/dejavu/chrome/common/doc/2.0a/html/intro.html) - Dejavu is a thread-safe Object-Relational Mapper for Python applications.
+* ![alt text](https://avatars1.githubusercontent.com/u/723451?v=3&s=32 "Adrian Perez")
+  [gnarl](https://github.com/aperezdc/gnarl) - Lightweight module to define serializable, schema-validated classes
 * ![alt text](https://avatars1.githubusercontent.com/u/124167?v=3&s=32 "Sebastian Heimann")
   [guts](https://github.com/emolch/guts) - Lightweight declarative YAML and XML data binding for Python.
 * ![alt text](https://avatars2.githubusercontent.com/u/29016?v=3&s=32 "Matt Good")
