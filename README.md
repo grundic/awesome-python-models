@@ -142,6 +142,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [jsonschema](https://github.com/Julian/jsonschema) - jsonschema is an implementation of JSON Schema for Python (supporting 2.7+ including Python 3).
 * ![alt text](https://avatars0.githubusercontent.com/u/872991?v=3&s=32 "Davide Zanotti")
   [pyvaru](https://github.com/daveoncode/pyvaru) - Rule based data validation library for python 3.
+* ![alt text](https://avatars0.githubusercontent.com/u/1761188?v=3&s=32 "Shezad Khan")
+  [required](https://github.com/shezadkhan137/required) - Required is a simple library which allows you to validate dependencies across multiple fields.
 * ![alt text](https://avatars1.githubusercontent.com/u/619158?v=3&s=32 "Vladimir Keleshev")
   [schema](https://github.com/keleshev/schema) - schema is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
 * ![alt text](https://avatars0.githubusercontent.com/u/446761?v=3&s=32 "Podio")
