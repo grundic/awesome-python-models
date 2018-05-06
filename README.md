@@ -136,12 +136,12 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 
 ## Data validation
 *Libraries for validating custom data structures.*
+* ![alt text](https://avatars1.githubusercontent.com/u/26229868?v=3&s=32 "eve")
+  [cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
 * ![alt text](https://avatars0.githubusercontent.com/u/872991?v=3&s=32 "Davide Zanotti")
   [pyvaru](https://github.com/daveoncode/pyvaru) - Rule based data validation library for python 3.
-
 * ![alt text](https://avatars1.githubusercontent.com/u/619158?v=3&s=32 "Vladimir Keleshev")
   [schema](https://github.com/keleshev/schema) - schema is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
-
 
 # Other resources
 * [fullstackpython: Object-relational mappers (ORMs)](https://www.fullstackpython.com/object-relational-mappers-orms.html)
