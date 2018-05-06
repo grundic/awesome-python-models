@@ -146,6 +146,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
   [schema](https://github.com/keleshev/schema) - schema is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
 * ![alt text](https://avatars0.githubusercontent.com/u/446761?v=3&s=32 "Podio")
   [valideer](https://github.com/podio/valideer) - Lightweight data validation and adaptation Python library.
+* ![alt text](https://avatars0.githubusercontent.com/u/6367792?v=3&s=32 "guyskk")
+  [validr](https://github.com/guyskk/validr) - A simple, fast, extensible python library for data validation.
 * ![alt text](https://avatars0.githubusercontent.com/u/41767?v=3&s=32 "Alec Thomas")
   [voluptuous](https://github.com/alecthomas/voluptuous) - Voluptuous, despite the name, is a Python data validation library. It is primarily intended for validating data coming into Python as JSON, YAML, etc.
 
