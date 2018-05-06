@@ -133,6 +133,13 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 * ![alt text](https://avatars2.githubusercontent.com/u/119974?v=3&s=32 "Charles Leifer")
   [walrus](https://github.com/coleifer/walrus) - Lightweight Python utilities for working with Redis.
 
+
+## Data validation
+*Libraries for validating custom data structures.*
+* ![alt text](https://avatars1.githubusercontent.com/u/619158?v=3&s=32 "Vladimir Keleshev")
+  [schema](https://github.com/keleshev/schema) - schema is a library for validating Python data structures, such as those obtained from config-files, forms, external services or command-line parsing, converted from JSON/YAML (or something else) to Python data-types.
+
+
 # Other resources
 * [fullstackpython: Object-relational mappers (ORMs)](https://www.fullstackpython.com/object-relational-mappers-orms.html)
 * [Python ORM/ODM Examples, For The Sleepy](https://github.com/sloria/PythonORMSleepy)
