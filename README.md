@@ -140,6 +140,8 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 *Libraries for validating custom data structures.*  
 * ![alt text](https://avatars1.githubusercontent.com/u/26229868?v=3&s=32 "eve")
   [cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python.
+* ![alt text](https://avatars0.githubusercontent.com/u/1328688?v=3&s=32 "Michael Selik")
+  [destructure](https://github.com/selik/destructure) - Easy declarative schema validation with optional name-binding.
 * ![alt text](https://avatars1.githubusercontent.com/u/329822?v=3&s=32 "Julian Berman")
   [jsonschema](https://github.com/Julian/jsonschema) - jsonschema is an implementation of JSON Schema for Python (supporting 2.7+ including Python 3).
 * ![alt text](https://avatars0.githubusercontent.com/u/22664290?v=3&s=32 "Shivaprasad Bhat")
