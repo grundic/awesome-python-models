@@ -4,6 +4,7 @@ A curated list of awesome Python libraries, which implement models, schemas, ser
 - [Awesome Python Models](#awesome-python-models)
     - [Model/Schema](#model-schema)
     - [ODM/ORM/Active Record](#odm-orm-active-record)
+    - [Data/validation](#data-validation)
 - [Other resources](#other-resources)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
